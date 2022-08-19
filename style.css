@@ -24,13 +24,19 @@ body {
   margin-top: -2.5em;
 }
 
+#menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 a {
   font-size: 14px;
   font-family: serif;
   color: #e8cfe0;
 }
 
-img{
+img {
   width: 500px;
 }
 
