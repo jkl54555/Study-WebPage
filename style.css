@@ -1,5 +1,6 @@
 @charset "UTF-8";
 html {
+  scroll-behavior: smooth;
   background-color: #0d0c0c;
   color: #e1f0fc;
   font-family: 微軟正黑體;
@@ -15,7 +16,7 @@ body {
   border: 5px solid #734746;
 }
 
-#menu {
+#QuickAnchor {
   position: fixed;
   left: 0;
   top: 50%;
